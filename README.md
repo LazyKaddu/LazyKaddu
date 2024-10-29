@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aashish
-- 👀 I’m interested in Ml and python 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on any ml or python project
+- 👀 I’m interested in Ml and python and 3d web projects
+- 🌱 I’m currently learning electron js
+- 💞️ I’m looking to collaborate on any ml or web dev project
 - 📫 reach me at aashishnegi0000@gmail.com
 
 <!---
